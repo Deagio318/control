@@ -1,0 +1,84 @@
+{
+  "controller": {
+    "file": "controller.png",
+    "x": 0,
+    "y": 0
+  },
+  "buttons": [
+    {
+      "name": "A",
+      "file": "a.png",
+      "pressedFile": "a_pressed.png",
+      "x": 520,
+      "y": 300,
+      "scaleOnPress": 0.9
+    },
+    {
+      "name": "B",
+      "file": "b.png",
+      "pressedFile": "b_pressed.png",
+      "x": 580,
+      "y": 260,
+      "scaleOnPress": 0.9
+    },
+    {
+      "name": "X",
+      "file": "x.png",
+      "pressedFile": "x_pressed.png",
+      "x": 460,
+      "y": 260,
+      "scaleOnPress": 0.9
+    },
+    {
+      "name": "Y",
+      "file": "y.png",
+      "pressedFile": "y_pressed.png",
+      "x": 520,
+      "y": 220,
+      "scaleOnPress": 0.9
+    }
+  ],
+  "sticks": [
+    {
+      "name": "LS",
+      "file": "stick_l.png",
+      "pressedFile": "stick_l_pressed.png",
+      "x": 300,
+      "y": 320,
+      "scaleOnPress": 0.95
+    },
+    {
+      "name": "RS",
+      "file": "stick_r.png",
+      "pressedFile": "stick_r_pressed.png",
+      "x": 650,
+      "y": 400,
+      "scaleOnPress": 0.95
+    }
+  ],
+  "triggers": [
+    {
+      "name": "LT",
+      "file": "lt.png",
+      "pressedFile": "lt_pressed.png",
+      "x": 200,
+      "y": 100,
+      "scaleOnPress": 0.95
+    },
+    {
+      "name": "RT",
+      "file": "rt.png",
+      "pressedFile": "rt_pressed.png",
+      "x": 750,
+      "y": 100,
+      "scaleOnPress": 0.95
+    }
+  ],
+  "dpad": {
+    "file": "dpad.png",
+    "pressedFile": "dpad_pressed.png",
+    "x": 350,
+    "y": 450,
+    "scaleOnPress": 0.9
+  }
+}
